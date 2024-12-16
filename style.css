@@ -6,10 +6,12 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
-    color: white;
     font-family: "Quicksand";
     
     
+}
+body{
+    color: black;
 }
 
 p{
@@ -50,4 +52,7 @@ h3{
     margin-bottom: 10px;
 }
 
+a{
+    color: white;
+}
 
